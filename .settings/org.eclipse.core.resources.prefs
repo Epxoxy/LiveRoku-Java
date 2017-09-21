@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/base/model/DanmakuModel.java=UTF-8
+encoding//src/base/model/GiftRank.java=UTF-8
+encoding//src/base/model/MsgType.java=UTF-8
+encoding//src/danmaku/DanmakuParser.java=UTF-8
+encoding//src/download/FileDownloader.java=UTF-8
